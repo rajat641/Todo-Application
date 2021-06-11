@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Todo React App
+Here is the screenshot of the UI:
+
+
+<img width="1275" alt="Screen Shot 2021-06-10 at 7 44 10 PM" src="https://user-images.githubusercontent.com/8374949/121623318-50503800-ca24-11eb-92a8-dc6ca12460d5.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
